@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
@@ -405,7 +406,7 @@ Layzer. "Love Canal: Hazardous Wastes and the Politics of Fear." In _The Enviro
 
 Switzer. _Environmental Politics_. Pp. 113-138.
 
-Downs, Anthony. "Up and Down with Ecology: The Issue-Attention Cycle." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://fbaum.unc.edu/teaching/articles/Downs_Public_Interest_1972.pdf))
+Downs, Anthony. "Up and Down with Ecology: The Issue-Attention Cycle." ([PDF](https://fbaum.unc.edu/teaching/articles/Downs_Public_Interest_1972.pdf))
 
 Recommended Reading:
 

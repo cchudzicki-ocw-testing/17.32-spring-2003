@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains Lecture Notes and Related Handouts.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
